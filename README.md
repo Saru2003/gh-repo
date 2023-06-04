@@ -20,6 +20,23 @@ Before running the tool, ensure that you have the necessary Python modules insta
 ```bash
 pip install -r requirements.txt
 ```
+After installing the requirements, Linux users need to follow these additional steps:
+
+* Navigate to the directory where the `gh-repo` repository is located. You can use the `cd` command to change the directory. For example:
+   
+   ```bash
+   cd path/to/gh-repo
+   ```
+
+* Make the `gh-repo.py` file executable by running the following command with root privileges:
+
+   ```bash
+   sudo chmod +x gh-repo.py
+   ```
+
+   This command grants executable access to the file.
+
+Now you are ready to run the `gh-repo.py` script.
 
    
 ### Running the Tool
