@@ -66,6 +66,6 @@ You can find the official Docker image for the GitHub Repository Analyzer on [Do
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Saru2003/gh-repo/blob/main/LICENSE) file for details.
+This project is licensed under the GNU General Public License. See the [LICENSE](https://github.com/Saru2003/gh-repo/blob/main/LICENSE) file for details.
 
 
