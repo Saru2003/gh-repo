@@ -2,7 +2,6 @@
 import argparse
 from bs4 import BeautifulSoup
 import requests
-import re
 parser=argparse.ArgumentParser(description='git')
 parser.add_argument('-u',type=str,help='username')
 parser.add_argument('-y',type=str,help='year')
