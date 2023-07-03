@@ -61,7 +61,7 @@ Run the Docker container:
 docker run sarvesh20123/gh-repo -u <USERNAME> -y <YEAR>
 ```
 
-<img src="images/Screenshot_20230703_174536.png">
+<img src="Screenshot_20230703_174536.png">
 
 Please note that the GitHub Repository Analyzer is cross-platform compatible and can be run on Linux, macOS, and Windows systems.
 
